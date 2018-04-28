@@ -1,4 +1,3 @@
-.container-fluid {
-	height: 500px;
-	background-image: url('../images/sunset.jpg');
+nav.grellow {
+    background-color: greenyellow;
 }
